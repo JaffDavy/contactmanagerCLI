@@ -32,7 +32,7 @@ Navigate to the project directory:
 bash
 Copy
 Edit
-cd contact-managerCLI
+cd contact-managerCLIwhat was the command we used to start the app
 Install the dependencies:
 
 bash
